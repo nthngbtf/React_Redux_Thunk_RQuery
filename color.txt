@@ -1,0 +1,17 @@
+
+#fcfcfc
+#221e1f
+#562122
+#8a2425
+#be2729
+99592A
+
+Business Name
+HEX:
+#2A160C
+RGB:
+42 22 12
+CMYK:
+0 48 71 84
+Pantone:
+19-1106
